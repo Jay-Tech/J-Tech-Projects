@@ -1,0 +1,16 @@
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.GreetingPage.xaml.g.cs
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll.mdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll.mdb
