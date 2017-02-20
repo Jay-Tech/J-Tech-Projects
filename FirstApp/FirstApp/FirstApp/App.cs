@@ -11,7 +11,7 @@ namespace FirstApp
     {
         public App()
         {
-           MainPage = new GreetingPage();
+           MainPage = new QuotesPage();
         }
 
         protected override void OnStart()

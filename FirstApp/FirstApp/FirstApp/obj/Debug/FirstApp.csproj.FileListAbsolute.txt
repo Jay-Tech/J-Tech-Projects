@@ -11,6 +11,11 @@ C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\D
 C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
 C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll
 C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
-C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.GreetingPage.xaml.g.cs
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.QuotesPage.xaml.g.cs
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.Page1.xaml.g.cs
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll.mdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll.mdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll.mdb
+C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll.mdb
 C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll.mdb
 C:\Users\J_lap\Documents\GitHub\J-Tech-Projects\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll.mdb

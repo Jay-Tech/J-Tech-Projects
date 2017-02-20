@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage  xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstApp.QuotesPage">
+  
+  <ContentPage.Padding>
+    <OnPlatform x:TypeArguments ="Thickness"
+                Android="20,30,20,20"
+                iOS="20,20,20,20">
+    </OnPlatform>    
+  </ContentPage.Padding>
+    
+  <StackLayout  VerticalOptions="Start">
+    <Button HorizontalOptions ="Center" VerticalOptions="Start" Text="Next" Clicked="Button_OnClicked"></Button>
+    <Label Text ="{Binding Source={x:Reference Slider},Path=Value, StringFormat='Font Size: {0:F0}'}"></Label>
+    <Slider Maximum="50" Minimum="16" x:Name="Slider"></Slider>
+    <Label FontSize="{Binding Source ={x:Reference Slider},Path=Value}" x:Name="quoteLabel"></Label>
+  </StackLayout>
+</ContentPage>
